@@ -7,7 +7,7 @@
       userPosition: 'Sr.Broadcast Engineer',
       company: 'YIG',
       department: 'YTV',
-      group: 2,
+      group: "Group - " +2,
     },
     {
       id: 2,
@@ -15,7 +15,7 @@
       userPosition: 'Jr.Broadcast Engineer',
       company: 'YIG',
       department: 'YTV',
-      group: 2,
+      group:"Group - " + 2,
     },
     {
       id: 3,
@@ -23,7 +23,7 @@
       userPosition: 'Jr.Broadcast Engineer',
       company: 'YIG',
       department: 'YTV',
-      group: 1,
+      group:"Group - " + 1,
     },
     {
       id: 4,
@@ -31,7 +31,7 @@
       userPosition: 'Jr.Broadcast Engineer',
       company: 'YIG',
       department: 'YTV',
-      group: 1,
+      group: "Group - " +1,
     },
     {
       id: 5,
@@ -39,7 +39,7 @@
       userPosition: 'Jr.Broadcast Engineer',
       company: 'YIG',
       department: 'YTV',
-      group: 1,
+      group: "Group - " +1,
     },
     {
       id: 6,
@@ -47,7 +47,7 @@
       userPosition: 'Broadcast Manager',
       company: 'YIG',
       department: 'YTV',
-      group: 0,
+      group:"Group - " + 0,
     },
    
   ] 
