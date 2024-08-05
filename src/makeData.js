@@ -6,7 +6,7 @@
       userName: 'Myo Ko Ko Oo',
       userPosition: 'Sr.Broadcast Engineer',
       company: 'YIG',
-      department: 'YTV',
+      department: 'YTV/BED',
       group: "Group - " +2,
     },
     {
@@ -14,7 +14,7 @@
       userName: 'Kyaw Swar Htet',
       userPosition: 'Jr.Broadcast Engineer',
       company: 'YIG',
-      department: 'YTV',
+      department: 'YTV/BED',
       group:"Group - " + 2,
     },
     {
@@ -22,7 +22,7 @@
       userName: 'Sai Tun Oo',
       userPosition: 'Jr.Broadcast Engineer',
       company: 'YIG',
-      department: 'YTV',
+      department: 'YTV/BED',
       group:"Group - " + 1,
     },
     {
@@ -30,7 +30,7 @@
       userName: 'Thiha Naing',
       userPosition: 'Jr.Broadcast Engineer',
       company: 'YIG',
-      department: 'YTV',
+      department: 'YTV/BED',
       group: "Group - " +1,
     },
     {
@@ -38,7 +38,7 @@
       userName: 'Kaung Myat Soe',
       userPosition: 'Jr.Broadcast Engineer',
       company: 'YIG',
-      department: 'YTV',
+      department: 'YTV/BED',
       group: "Group - " +1,
     },
     {
@@ -46,7 +46,7 @@
       userName: 'Win Chan Aye',
       userPosition: 'Broadcast Manager',
       company: 'YIG',
-      department: 'YTV',
+      department: 'YTV/BED',
       group:"Group - " + 0,
     },
    
