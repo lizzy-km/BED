@@ -8,7 +8,10 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <BoxC/>
+    <section className=' bg-[#d4d4d4] flex w-full h-screen justify-center items-center ' >
+          <BoxC/>
+    </section>
+    
   )
 }
 
